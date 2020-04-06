@@ -1,0 +1,3 @@
+rootProject.name='JcenterBintrayPushTest'
+include ':app'
+include ':jcenterbintraypush'
